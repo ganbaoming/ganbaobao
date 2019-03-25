@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12444" started-at="2019-03-25T06:32:46Z" finished-at="2019-03-25T06:32:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12444" started-at="2019-03-25T06:32:46Z" finished-at="2019-03-25T06:32:58Z">
+      <class name="ad.xsdl">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ad.xsdl@224aed64]" name="setUp" is-config="true" duration-ms="3017" started-at="2019-03-25T14:32:46Z" finished-at="2019-03-25T14:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:ad.xsdl@224aed64]" name="testUntitled" duration-ms="9411" started-at="2019-03-25T14:32:49Z" finished-at="2019-03-25T14:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ad.xsdl@224aed64]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-03-25T14:32:58Z" finished-at="2019-03-25T14:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ad.xsdl -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
